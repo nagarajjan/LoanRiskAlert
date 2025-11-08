@@ -1,0 +1,7 @@
+{
+  "default_lgd": 0.45,
+  "economic_outlook_index": 1.05,
+  "min_dscr_required": 1.2,
+  "risk_factors_to_highlight": [ "credit_score", "probability_of_default (PD)", "dscr" ],
+  "max_dti_allowed": 0.35
+}
